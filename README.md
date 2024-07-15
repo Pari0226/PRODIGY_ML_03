@@ -1,4 +1,4 @@
-LinkedIn Link:-
+LinkedIn Link:-https://www.linkedin.com/feed/update/urn:li:activity:7218725615699390467/
 
 SVM Image Classification: Cats vs Dogs This repository demonstrates image classification using Support Vector Machine (SVM) to distinguish between images of cats and dogs.
 
